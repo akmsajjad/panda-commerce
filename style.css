@@ -33,3 +33,14 @@
 .categort3{
     background-image: linear-gradient(to left, #217feb 0%,  #367dda 100%);
 }
+.card{
+    box-shadow: 5px 5px 10px lightgray ;
+
+
+}
+.card,.card-footer{
+    border: none;
+    background-color: #fff;
+    margin: 20px 20px;
+    border-radius: 10px;
+}
