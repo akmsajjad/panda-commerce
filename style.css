@@ -19,3 +19,17 @@
     color: #fff;
     cursor: pointer;
 }
+.categort1,.categort2,.categort3{
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: #fff;
+}
+.categort1{
+    background-image: linear-gradient(to left, #cf9517 0%,  #b68b2e 100%);
+}
+.categort2{
+    background-image: linear-gradient(to left, #ce1442 0%,  #be3479 100%);
+}
+.categort3{
+    background-image: linear-gradient(to left, #217feb 0%,  #367dda 100%);
+}
