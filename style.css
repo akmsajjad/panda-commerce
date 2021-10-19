@@ -44,3 +44,12 @@
     margin: 20px 20px;
     border-radius: 10px;
 }
+#contact{
+    padding: 50px 0px;
+}
+#contact h6{
+    color: lightslategray;
+}
+footer{
+    text-align: center;
+}
